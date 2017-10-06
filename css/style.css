@@ -1,0 +1,136 @@
+* {
+  margin:0;
+  padding:0;
+  font-family: 'Droid Serif', serif;
+   text-decoration: none;
+   list-style: none;
+
+}
+
+body {
+   overflow-x: hidden;
+   overflow-y: scroll;
+}
+
+.header {
+  background-image:url('https://healthyforgood.heart.org/-/media/aha/h4gm/article-images/how-to-eat-more-fruits-and-veg.jpg');
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+
+.navbar-brand p {
+  font-size: 1.8em;
+  color:#fff;
+
+
+}
+
+
+
+.navbar-custom {
+background:transparent;
+
+}
+
+  .navbar-custom .navbar-nav li a:hover {
+ background:transparent;
+ color:orange;
+ border-bottom: 2px solid white;
+
+
+ }
+
+
+  .navbar-custom .navbar-nav li a {
+     color:white;
+     font-size: 1.3em;
+     padding:14px 15px;
+  }
+
+
+
+
+.header img {
+   margin-top: 15px;
+  margin-bottom: 160px;
+}
+
+.main-text  h1 {
+  font-size: 3.2em;
+  color:white;
+  text-transform: uppercase;
+  margin-bottom: 50px;
+  font-weight: 600;
+}
+
+
+.healthy h1 {
+  margin-top:50px;
+  margin-bottom: 20px;
+}
+
+.health-title {
+  color:green;
+  font-weight: 200;
+}
+
+.healthy p {
+  text-align:justify;
+
+}
+ .veg-meal img{
+   margin-top: 30px;
+ }
+
+ .veg-meal img:hover{
+  opacity: 0.85;
+ }
+
+.smoothies img{
+   margin-top: 30px;
+ }
+
+  .smoothies img:hover{
+   opacity: 0.85;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.header-buttons a {
+border:3px solid green;
+padding:10px 20px;
+margin:10px;
+color:#fff;
+font-size:1.25em;
+background-color: green;
+font-weight: 300;
+
+}
+
+.header-buttons a.btn-full:hover {
+color:orange;
+transition: all 0.5s;
+
+}
+
+.navbar-custom .navbar-toggle .icon-bar{
+ background-color: orange;
+}﻿
